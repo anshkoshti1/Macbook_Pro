@@ -59,7 +59,7 @@ const Showcase = () => {
                 hardware-accelerated ray tracing brings console-level graphics
                 to your fingertips.
               </p>
-              <p className="text-primary">
+              <p className="text-primary cursor-pointer">
                 Learn more about Apple Intelligence
               </p>
             </div>
