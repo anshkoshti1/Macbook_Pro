@@ -72,7 +72,7 @@ const Footer = () => {
       <hr />
 
       <div className="links">
-        <div className="flex justify-center items-end gap-1">
+        <div>
           <p>Copyright © 2024 Apple Inc. All rights reserved.</p>
         </div>
 
