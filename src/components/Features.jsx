@@ -82,7 +82,7 @@ const ModelScroll = () => {
           </Html>
         }
       >
-        <MacbookModel scale={isMobile ? 0.05 : 0.08} position={[0, -1, 0]} />
+        <MacbookModel scale={isMobile ? 0.05 : 0.1} position={[0, -1, 0]} />
       </Suspense>
     </group>
   );
